@@ -1,0 +1,5 @@
+{
+  "version": "0.1.1",
+  "url": "https://github.com/ccromer-secops/SPOG/releases/latest",
+  "notes": "Fixes window layout not restoring on relaunch."
+}
