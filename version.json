@@ -1,5 +1,5 @@
 {
-  "version": "0.1.5",
+  "version": "0.2.0",
   "url": "https://github.com/ccromer-secops/SPOG/releases/latest",
-  "notes": "The maximize button now works. Clicking the square icon expands a window to fill the whole SPOG window, and clicking it again restores it to its place in the grid. Previously it…"
+  "notes": "Updates the underlying Electron runtime from 31 to 44, picking up roughly two years of Chromium security fixes. No changes to how the app behaves."
 }
