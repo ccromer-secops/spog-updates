@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "url": "https://github.com/ccromer-secops/SPOG/releases/latest",
-  "notes": "Updates the underlying Electron runtime from 31 to 44, picking up roughly two years of Chromium security fixes. No changes to how the app behaves."
+  "notes": "Fixes macOS builds reporting \"SPOG is damaged and can't be opened\" on Apple Silicon. The app was shipped without any code signature, which M-series Macs refuse to execute outright."
 }
