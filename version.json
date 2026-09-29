@@ -1,5 +1,5 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "url": "https://github.com/ccromer-secops/SPOG/releases/latest",
-  "notes": "Fixes macOS builds reporting \"SPOG is damaged and can't be opened\" on Apple Silicon. The app was shipped without any code signature, which M-series Macs refuse to execute outright."
+  "notes": "Mac users can now move the application window by dragging the top bar. The window previously had no draggable area at all and could only be resized."
 }
