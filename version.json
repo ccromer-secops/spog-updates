@@ -1,5 +1,5 @@
 {
-  "version": "0.2.2",
+  "version": "0.2.3",
   "url": "https://github.com/ccromer-secops/SPOG/releases/latest",
-  "notes": "Mac users can now move the application window by dragging the top bar. The window previously had no draggable area at all and could only be resized."
+  "notes": "Replaces Proofpoint TAP with Astrix in the built-in app list, and adds a Reset to defaults button to Manage Apps."
 }
